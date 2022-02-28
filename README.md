@@ -37,7 +37,7 @@ cmVxdWlyZSgnY2hpbGRfcHJvY2VzcycpLmV4ZWMoJwCBZ0yE+9995CcsKGVycm9yLCBzdGRvdXQsIHN0
 
 在Profiles菜单栏的输入框输入，点击Download
 
-![image-20220228103847114](image-20220228103847114.png)
+![image-20220228103847114](image-20220228103917531.png)
 
 
 
@@ -51,7 +51,7 @@ open -a Calculator
 
 
 
-![image-20220228104000594](/Users/sky11ne/Library/Application Support/typora-user-images/image-20220228104000594.png)
+![image-20220228104000594](20220228104000594.png)
 
 
 
